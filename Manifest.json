@@ -1,0 +1,19 @@
+{
+  "name": "YATRA BUS",
+  "short_name": "YATRA BUS",
+  "start_url": "/Yatra-bus/",
+  "scope": "/Yatra-bus/",
+  "display": "fullscreen",
+  "background_color": "#ffffff",
+  "theme_color": "#963939",
+  "orientation": "any",
+  "dir": "ltr",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "1790107135859.svg(1).png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
