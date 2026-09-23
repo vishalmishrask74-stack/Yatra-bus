@@ -1,0 +1,27 @@
+{
+  "background_color": "#000000",
+  "description": "20 best friends monthly committee &amp; bhent management system with fixed 5th date collection, auction bidding discount &amp; dividend tracking, meetup planner, and AI assistant.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "ais-pre-m7uw7mzfa3rjxs2ec7tixo-739524681120.asia-southeast1.run",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "ais-pre-m7uw7mzfa3rjxs2ec7tixo-739524681120.asia-southeast1.run",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://ais-pre-m7uw7mzfa3rjxs2ec7tixo-739524681120.asia-southeast1.run.app/favicon.ico",
+      "type": "image/x-icon",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "id": "Yatra bus"
+}

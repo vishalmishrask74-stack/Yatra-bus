@@ -1,0 +1,16 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "YATRA BUS",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "short_name": "Yatra",
+  "start_url": "https://yatrabus.com/",
+  "theme_color": "#ffffff",
+  "id": "/YATRA BUS.com",
+  "lang": "hi",
+  "display_override": [
+    "window-controls-overlay"
+  ]
+}
